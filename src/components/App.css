@@ -1,0 +1,7 @@
+.container {
+  composes: container from "bootstrap-css/lib/grid.css";
+}
+
+.appHeading {
+  composes: jumbotron from "bootstrap-css/lib/jumbotron.css"
+}

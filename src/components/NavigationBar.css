@@ -1,0 +1,25 @@
+.headernav {
+  composes: navbar navbar-default navbar-fixed-top from "bootstrap-css/lib/navbar.css";
+}
+
+.brand {
+  composes: navbar-brand from "bootstrap-css/lib/navbar.css";
+  padding-left: 40px;
+}
+
+.header {
+  composes: navbar-header from "bootstrap-css/lib/navbar.css";
+}
+
+.menu_list {
+  composes: navbar-collapse collapse from "bootstrap-css/lib/navbar.css";
+}
+
+.nav_list {
+  composes: nav from "bootstrap-css/lib/navs.css";
+  composes: navbar-nav from "bootstrap-css/lib/navbar.css";
+}
+
+.container {
+  composes: container from "bootstrap-css/lib/grid.css";
+}
