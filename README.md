@@ -8,7 +8,7 @@ Thin as possible boilerplate with, built with [webpack](https://webpack.github.i
 
 Clone it
 ```
-> $ git clone https://github.com/alicoding/react-webpack-babel.git
+> $ git clone git@github.com:tranqy/react-routing-mobx-bootstrap-boilerplate.git
 ```
 
 Install deps
@@ -30,3 +30,5 @@ Or build it
 ```
 > $ npm run build
 ```
+
+Original fork from (alicoding)[https://github.com/alicoding/react-webpack-babel.git] Thanks!
